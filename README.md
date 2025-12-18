@@ -1,6 +1,6 @@
 # SIMD Packing in BGV/BFV FHE Schemes
 
-This project contains the Python code and Jupyter notebooks associated with the blog post on SIMD Packing in BGV/BFV FHE Schemes.
+This project contains the Python code and Jupyter notebooks associated with my article on [SIMD Packing in BGV/BFV FHE Schemes](https://ahmadalbadawi.com/posts/2025/12/simd-packing-bgv-bfv-fhe/).
 
 ## Description
 
@@ -41,3 +41,4 @@ The notebooks demonstrate the principles of SIMD (Single Instruction, Multiple D
 This code was tested on the following system:
 
 -   **Operating System:** Ubuntu 24.04
+-   **Python version:** Python 3.13.5
