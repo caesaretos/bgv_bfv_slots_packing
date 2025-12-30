@@ -1,6 +1,8 @@
 # SIMD Packing in BGV/BFV FHE Schemes
 
-This project contains the Python code and Jupyter notebooks associated with my article on [SIMD Packing in BGV/BFV FHE Schemes](https://ahmadalbadawi.com/posts/2025/12/simd-packing-bgv-bfv-fhe/).
+This project contains the Python code and Jupyter notebooks associated with my articles on: 
+- [SIMD Packing in BGV/BFV FHE Schemes](https://ahmadalbadawi.com/posts/2025/12/simd-packing-bgv-bfv-fhe/).
+- [The Math of Slot Rotation in BGV and BFV](https://ahmadalbadawi.com/posts/2025/12/slot-rotation-bgv-bfv-fhe/).
 
 ## Description
 
@@ -8,6 +10,7 @@ The notebooks demonstrate the principles of SIMD (Single Instruction, Multiple D
 
 - `poly_arithmetic_review.ipynb`: A review of the basic polynomial arithmetic.
 - `bgv_bfv_poly_arithmetic.ipynb`: An illustration of SIMD packing for integer vector arithmetic in BGV and BFV schemes.
+- `bgv_bfv_solt_rotation.ipynb`: An illustration of slot rotation for integer vector arithmetic in BGV and BFV schemes.
 
 ## Getting Started
 
