@@ -6,11 +6,13 @@ This project contains the Python code and Jupyter notebooks associated with my a
 
 ## Description
 
-The notebooks demonstrate the principles of SIMD (Single Instruction, Multiple Data) packing used in the BGV and BFV fully homomorphic encryption schemes.
+The notebooks demonstrate the principles of SIMD (Single Instruction, Multiple Data) packing and slot rotation used in the BGV and BFV fully homomorphic encryption schemes.
 
 - `poly_arithmetic_review.ipynb`: A review of the basic polynomial arithmetic.
 - `bgv_bfv_poly_arithmetic.ipynb`: An illustration of SIMD packing for integer vector arithmetic in BGV and BFV schemes.
 - `bgv_bfv_solt_rotation.ipynb`: An illustration of slot rotation for integer vector arithmetic in BGV and BFV schemes.
+
+Note that this code serves as an educational walkthrough rather than a performance-tuned solution. These examples are easy to digest, but they are not efficient and will not scale for large BGV/BFV parameters. Real-world implementations adopt more efficient algorithms designed for high-performance execution.
 
 ## Getting Started
 
