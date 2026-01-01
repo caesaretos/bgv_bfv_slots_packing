@@ -1,4 +1,4 @@
-# SIMD Packing in BGV/BFV FHE Schemes
+# SIMD Packing and Slot Rotation in BGV/BFV FHE Schemes
 
 This project contains the Python code and Jupyter notebooks associated with my articles on: 
 - [SIMD Packing in BGV/BFV FHE Schemes](https://ahmadalbadawi.com/posts/2025/12/simd-packing-bgv-bfv-fhe/).
